@@ -1,0 +1,51 @@
+[
+  {
+    "title": "ROS-based Voice Controlled Mobile Robotic Arm for Automatic Segregation of Medical Waste",
+    "imageSrc": "projects/ros.png",
+    "description": "Designed and developed a 6WD rover integrated with Jetson Nano for medical waste detection and segregation into color-coded bins with minimized human intervention",
+    "skills": ["IOT","ROS", "Python", "YOLOv5", "Ardupilot"],
+    "source": "https://github.com/anjdulam/roboticarm_medical_Waste_detection"
+  },
+  {
+    "title": "Development and evaluation of drone mounted sprayer for pesticide applications to crops",
+    "imageSrc": "projects/ros.png",
+    "description": "Integrated a drone with sprayer and a web-based Ground Control System with mapping features, allowing users to plot routes, set flight parameters, and monitor operations ",
+    "skills": ["Node", "JavaScript","Python","Flight control"],
+    "source": "https://github.com/anjdulam/pesticide_drone"
+  },
+  
+  {
+    "title": "Food Recipe Sharing App",
+    "imageSrc": "projects/food.png",
+    "description": " Designed a platform to connect food enthusiasts, home cooks, and professional chefs for sharing and discovering recipes. Users can create profiles, upload their favorite recipes, browse recipes shared by others.Users can upload their own recipes by providing details such as recipe name, ingredients, preparation instructions, cooking time and photos. ",
+    "skills": ["React", "Express", "Node","MongoDB"],
+    "source": "https://github.com/anjdulam/foodapp_mern"
+  },
+  {
+    "title": "News App using API",
+    "imageSrc": "projects/news.png",
+    "description": "Users can personalize their feed by selecting preferred categories such as technology, sports etc, and receive news articles from various sources around the world.",
+    "skills": ["React", "Node","JavaScript"],
+    "source": "https://github.com/anjdulam/newsapp_api_react"
+  },
+  
+  {
+    "title": "Activity Diary",
+    "imageSrc": "projects/act.png",
+    "description": "Digital journaling application designed to help users track their daily activities, manage their schedules and reminders",
+    "skills": ["React", "Express", "Node","MongoDB"],
+    "source": "https://github.com/anjdulam/activitydiary_using_react"
+  },
+  {
+    "title": "Text-Utils",
+    "imageSrc": "projects/text.png",
+    "description": "Designed an application that has a set of utility functions and tools for processing and analyzing text data",
+    "skills": ["React", "JavaScript", "Node"],
+    "source": "https://github.com/anjdulam/textutils_using_react"
+  }
+  
+ 
+
+
+  
+]

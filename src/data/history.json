@@ -1,0 +1,21 @@
+[
+  {
+    "role": "Campus Lead",
+    "organisation": "Student Tribe",
+    "startDate": "Aug, 2022",
+    "endDate": "Present",
+    "experiences": ["actively volunteered in organizing meet-ups,", "cultivated an environment of shared learning and collaboration"],
+    "imageSrc": "history/st_logo.png",
+    "url":"https://studenttribe.in/"
+  },
+  {
+    "role": "Java Instructor",
+    "organisation": "NewBie Learning",
+    "startDate": "Nov, 2022",
+    "endDate": "Mar, 2023",
+    "experiences": ["conducted online virtual sessions to educate students on Java", "addressed doubts to enhance their proficiency in programming"],
+    "imageSrc": "history/newbie_logo.png",
+    "url" :"https://www.newbielearning.in/"
+  }
+  
+]
