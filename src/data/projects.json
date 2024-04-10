@@ -8,7 +8,7 @@
   },
   {
     "title": "Development and evaluation of drone mounted sprayer for pesticide applications to crops",
-    "imageSrc": "projects/ros.png",
+    "imageSrc": "projects/drone.png",
     "description": "Integrated a drone with sprayer and a web-based Ground Control System with mapping features, allowing users to plot routes, set flight parameters, and monitor operations ",
     "skills": ["Node", "JavaScript","Python","Flight control"],
     "source": "https://github.com/anjdulam/pesticide_drone"
