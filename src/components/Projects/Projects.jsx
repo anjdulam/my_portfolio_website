@@ -1,31 +1,10 @@
-// import React from "react";
-
-// import styles from "./Projects.module.css";
-
-// import projects from "../../data/projects.json";
-// import { ProjectCard } from "./ProjectCard";
-
-// export const Projects = () => {
-//   return (
-//     <section className={styles.container} id="projects">
-//       <h2 className={styles.title}>Projects</h2>
-//       <div className={styles.projects}>
-//         {projects.map((project, id) => {
-//           return <ProjectCard key={id} project={project} />;
-//         })}
-//       </div>
-//     </section>
-//   );
-// };
-
-
 import React from "react";
 import styles from "./Projects.module.css";
 import projects from "../../data/projects.json";
 import { ProjectCard } from "./ProjectCard";
 
 export const Projects = () => {
-  const limitedProjects = projects.slice(0, 6); // Get the first six projects
+  const limitedProjects = projects.slice(0,10 ); // Get the first six projects
   return (
     <section className={styles.container} id="projects">
       <h2 className={styles.title}>Projects</h2>

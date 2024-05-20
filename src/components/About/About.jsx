@@ -17,18 +17,18 @@ export const About = () => {
           <li className={styles.aboutItem}>
             <img src={getImageUrl("about/cursorIcon.png")} alt="Cursor icon" />
             <div className={styles.aboutItemText}>
-              <h3>Frontend Developer</h3>
+              <h3>Full Stack Web Developer</h3>
               <p>
-                Proficient in Java, Python, and JavaScript, with hands-on experience in HTML, CSS, Bootstrap, ReactJS, Vite. I focus on crafting responsive and optimized sites to deliver exceptional user experiences.
+              Experienced in creating seamless user experiences and scalable web applications using modern front-end technologies (React, Vite, Yarn, Next) and back-end technologies (Node.js, Express.js, MongoDB, MySQL)
               </p>
             </div>
           </li>
           <li className={styles.aboutItem}>
             <img src={getImageUrl("about/serverIcon.png")} alt="Server icon" />
             <div className={styles.aboutItemText}>
-              <h3>Backend Developer</h3>
+              <h3>AI Engineer with expertise in NLP and LLMs</h3>
               <p>
-              Proficienct in Node.js, Express.js, and MongoDBI, MySQL. I'm diving into creating foundational backend systems and APIs. 
+              Skilled in developing end-to-end AI solutions across diverse domains. Proficient in leveraging cutting-edge tools such as Google's Gemini AI model and OpenAI API to enhance language understanding and generation. Committed to driving innovation and facilitating meaningful communication through AI technology
               </p>
             </div>
           </li>
@@ -47,8 +47,9 @@ export const About = () => {
             <div className={styles.aboutItemText}>
               <h3>Problem-Solving Passion</h3>
               <p>
-              Possessing a keen eye for detail and a drive for problem-solving, I architect robust solutions powering core functionalities of web applications.              </p>
-            </div>
+              Passionate about DSA (Data Structures and Algorithms) and actively engaged in their application to solve real-world problems.        
+              </p>
+              </div>
           </li>
         </ul>
       </div>

@@ -24,7 +24,7 @@
   {
     "title": "News App using API",
     "imageSrc": "projects/news.png",
-    "description": "Users can personalize their feed by selecting preferred categories such as technology, sports etc, and receive news articles from various sources around the world.",
+    "description": "Users can personalize their feed by selecting categories such as sports, technology and receive news articles from various sources around the world.",
     "skills": ["React", "Node","JavaScript"],
     "source": "https://github.com/anjdulam/newsapp_api_react"
   },
@@ -42,8 +42,35 @@
     "description": "Designed an application that has a set of utility functions and tools for processing and analyzing text data",
     "skills": ["React", "JavaScript", "Node"],
     "source": "https://github.com/anjdulam/textutils_using_react"
+  },
+  {
+    "title": "AI Assistant for Doctors and Patients",
+    "imageSrc": "projects/doc.jpg",
+    "description": "Developed an end-to-end Medical AI Assistant for accurate identification and analysis of medical conditions from images",
+    "skills": [" Google's Gemini AI model", "Streamlit", "Python"],
+    "source": "https://github.com/anjdulam/AI-Assistant-for-Doctors-and-Patients"
+  },
+  {
+    "title": "Finance Research Tool: Equity News Analyzer",
+    "imageSrc": "projects/finance.png",
+    "description": "NLP project to create a news research tool for equity research analysts that provides analysts with valuable insights for decision-making in the finance domain.",
+    "skills": ["Langchain", "OpenAI API", "Vector Database"],
+    "source": "https://github.com/anjdulam/Equity-News-Analyzer"
+  },
+  {
+    "title": "Voice control smart AI using ESP32",
+    "imageSrc": "projects/esp1.jpg",
+    "description": "AI-powered device that can be controlled through voice commands, enabling seamless integration into smart home systems or DIY projects for enhanced automation and accessibility",
+    "skills": ["Speech Recognition" ,"Websocket", "Arduino"],
+    "source": "https://github.com/anjdulam/voice-control-smart-AI-using-ESP32"
+  },
+  {
+    "title": "Intruder alert system using ESP32",
+    "imageSrc": "projects/esp2.avif",
+    "description": "Leverages its Wi-Fi capabilities and powerful processing to detect unauthorized entry through sensors",
+    "skills": ["Automation","UV sensor", "Arduino"],
+    "source": "https://github.com/anjdulam/Intruder_alert_system_esp32"
   }
-  
  
 
 

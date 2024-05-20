@@ -9,7 +9,7 @@ export const Me = () => {
       <div className={styles.content}>
         <h1 className={styles.title}>Hi, I'm Anjali</h1>
         <p className={styles.description}>
-          I'm Computer Science and Engineering student at Keshav Memorial Institute of Technology. Currently working on front-end and back-end web applications
+          I'm Computer Science and Engineering student at Keshav Memorial Institute of Technology. 
         </p>
         <a href="mailto:myemail@email.com" className={styles.contactBtn}>
           Contact Me
