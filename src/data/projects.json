@@ -37,11 +37,26 @@
     "source": "https://github.com/anjdulam/activitydiary_using_react"
   },
   {
-    "title": "Text-Utils",
-    "imageSrc": "projects/text.png",
-    "description": "Designed an application that has a set of utility functions and tools for processing and analyzing text data",
-    "skills": ["React", "JavaScript", "Node"],
-    "source": "https://github.com/anjdulam/textutils_using_react"
+    "title": "Convo Connect App",
+    "imageSrc": "projects/convo.png",
+    "description": "Real-time audio and video streaming application with Socket.io, enabling users to join calls via meeting links and connect from anywhere",
+    "skills": ["Socket.io","Web RTC", "Jest","React","Express","Node"],
+    "source": "https://github.com/anjdulam/Convo-Connect-App"
+  },
+  {
+    "title": "Expense Tracker App",
+    "imageSrc": "projects/expense.png",
+    "description": "Comprehensive solution for managing personal finances, allowing users to track, categorize, and visualize their expenses through interactive charts and a user-friendly interface",
+    "skills": ["React" ,"MongoDB", " Chart.js"],
+    "source": "https://github.com/anjdulam/expense_tracker_app"
+  }, 
+  
+  {
+    "title": "Intruder alert system using ESP32",
+    "imageSrc": "projects/esp2.avif",
+    "description": "Leverages its Wi-Fi capabilities and powerful processing to detect unauthorized entry through sensors",
+    "skills": ["Automation","UV sensor", "Arduino"],
+    "source": "https://github.com/anjdulam/Intruder_alert_system_esp32"
   },
   {
     "title": "AI Assistant for Doctors and Patients",
@@ -63,14 +78,8 @@
     "description": "AI-powered device that can be controlled through voice commands, enabling seamless integration into smart home systems or DIY projects for enhanced automation and accessibility",
     "skills": ["Speech Recognition" ,"Websocket", "Arduino"],
     "source": "https://github.com/anjdulam/voice-control-smart-AI-using-ESP32"
-  },
-  {
-    "title": "Intruder alert system using ESP32",
-    "imageSrc": "projects/esp2.avif",
-    "description": "Leverages its Wi-Fi capabilities and powerful processing to detect unauthorized entry through sensors",
-    "skills": ["Automation","UV sensor", "Arduino"],
-    "source": "https://github.com/anjdulam/Intruder_alert_system_esp32"
   }
+
  
 
 
